@@ -1,0 +1,15 @@
+@import "tailwindcss";
+@import "./theme.css";
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, sans-serif;
+  background: var(--color-background);
+  color: var(--color-text);
+}
