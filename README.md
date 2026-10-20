@@ -5,10 +5,17 @@
 </p>
 
 <p align="center">
+  <a href="https://taskflow-bb26b.web.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Canlı_Demo-taskflow--bb26b.web.app-2563EB?style=for-the-badge" alt="Canlı Demo" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-3.0-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Firebase-Auth_%26_Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Firebase_Hosting-Live-FFA000?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Hosting" />
   <img src="https://img.shields.io/badge/Cloudinary-Media_Storage-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" alt="Cloudinary" />
   <img src="https://img.shields.io/badge/Framer_Motion-Animation-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
 </p>
@@ -51,6 +58,7 @@ TaskFlow, proje ve iş akış süreçlerini sadeleştirmek için geliştirilmiş
 - **Stil & UI:** Tailwind CSS, Lucide React, Framer Motion
 - **Sürükle-Bırak:** `@hello-pangea/dnd`
 - **Backend & Auth:** Firebase (Authentication, Cloud Firestore)
+- **Barındırma & Dağıtım:** Firebase Hosting
 - **Medya Depolama:** Cloudinary REST API
 - **Form & Doğrulama:** React Hook Form, Zod
 - **Bildirim:** Sonner
